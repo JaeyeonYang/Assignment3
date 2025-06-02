@@ -49,7 +49,7 @@ function HomeComponent() {
             <a href="/history" className="bg-white p-10 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
               <div className="text-blue-600 text-3xl mb-6 group-hover:scale-110 transition-transform">📚</div>
               <h3 className="text-2xl font-semibold text-gray-900 mb-4">수강 이력</h3>
-              <p className="text-gray-600">지금까지 수강한 과목들을 확인하고 관리하세요.</p>
+              <p className="text-gray-600">수강한 과목들을 확인하고 관리하세요.</p>
             </a>
             <a href="/requirements" className="bg-white p-10 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
               <div className="text-blue-600 text-3xl mb-6 group-hover:scale-110 transition-transform">📊</div>
@@ -59,7 +59,7 @@ function HomeComponent() {
             <a href="/coursetree" className="bg-white p-10 rounded-xl shadow-sm hover:shadow-md transition-shadow group">
               <div className="text-blue-600 text-3xl mb-6 group-hover:scale-110 transition-transform">🌳</div>
               <h3 className="text-2xl font-semibold text-gray-900 mb-4">코스트리</h3>
-              <p className="text-gray-600">트랙별 수강 계획과 선수과목 관계를 확인하세요.</p>
+              <p className="text-gray-600">트랙별 수강 계획을 확인하세요.</p>
             </a>
           </div>
         </div>
